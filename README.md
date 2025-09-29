@@ -8,6 +8,7 @@ built your Flask + CSV parser app inside IDE environment, it parses the csv and 
 Used Flask to create the back end and then parsed the CSV to have the data in it, so that after the url is changed to ganre_name then movies are returned
 
 ## Installation
+http://localhost:8080/ui
 Launch the app.py that will initiate the Flask and then curl requests can be made to call the movies, ther eis no front end.
 
 ## Usage
