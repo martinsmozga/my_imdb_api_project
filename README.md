@@ -9,7 +9,7 @@ Used Flask to create the back end and then parsed the CSV to have the data in it
 
 ## Installation
 http://localhost:8080/ui
-Launch the app.py that will initiate the Flask and then curl requests can be made to call the movies, ther eis no front end.
+Launch the app.py that will initiate the Flask and then curl requests can be made to call the movies, there is a simple front end.
 
 ## Usage
 curl requests can be made to call the movies, there is no front end, which can be added later
